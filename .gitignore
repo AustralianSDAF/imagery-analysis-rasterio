@@ -1,0 +1,8 @@
+# Ignore everything
+/*
+
+# But not these files...
+!.gitignore
+!Rasterio.ipynb
+!README.md
+!/imgs/
